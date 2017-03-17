@@ -416,7 +416,7 @@ from the `CordovaInterface` using `getContext()` or `getActivity()`.
 If you are not an experienced Android developer, please contact the
 plugin maintainer and add this task to their bug tracker.
 
-## Upgrade to 1.8.0 from 1.8.0
+## Upgrade to 1.8.1 from 1.8.0
 
 1. Remove `cordova-1.8.0.jar` from the project's `libs` directory.
 
